@@ -1,0 +1,8 @@
+변수는 컴퓨터 안에 데이터를 저장하는 공간
+자료형은 데이터의 종류(유형)입니다.
+
+문자형 (char)
+문자열 (String)
+정수형 (byte, short, int, long)
+실수형 (float, double)
+논리형 (boolean)
